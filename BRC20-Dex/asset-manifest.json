@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5dfd63e5.css",
+    "main.js": "/static/js/main.e7305b75.js",
+    "static/media/bitcoin.png": "/static/media/bitcoin.d4316107693c488a260f.png",
+    "static/media/logo.png": "/static/media/logo.d4316107693c488a260f.png",
+    "index.html": "/index.html",
+    "main.5dfd63e5.css.map": "/static/css/main.5dfd63e5.css.map",
+    "main.e7305b75.js.map": "/static/js/main.e7305b75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dfd63e5.css",
+    "static/js/main.e7305b75.js"
+  ]
+}
